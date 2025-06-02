@@ -1,0 +1,5 @@
+{"level":"info","message":"Connected to MongoDB","service":"competitor-analysis","timestamp":"2025-06-01 04:06:04"}
+{"level":"info","message":"Server running on port 3000","service":"competitor-analysis","timestamp":"2025-06-01 04:06:04"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [31/May/2025:22:10:07 +0000] \"GET /api/health HTTP/1.1\" 200 62 \"-\" \"-\"","service":"competitor-analysis","timestamp":"2025-06-01 04:10:07"}
+{"level":"info","message":"Connected to MongoDB","service":"competitor-analysis","timestamp":"2025-06-01 04:10:07"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [31/May/2025:22:10:07 +0000] \"GET /api/unknown-route HTTP/1.1\" 404 156 \"-\" \"-\"","service":"competitor-analysis","timestamp":"2025-06-01 04:10:07"}

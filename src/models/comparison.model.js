@@ -18,6 +18,132 @@ const ComparisonSchema = new mongoose.Schema({
             },
             differencePercent: Number
         },
+        previousClose: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        dayLow: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        dayHigh: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        peRatio: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        debtToEquity: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        quickRatio: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        currentRatio: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        shortRatio: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        pegRatio: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        returnOnAssets: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        returnOnEquity: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        trailingEps: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        trailingPe: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        forwardPe: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        volume: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        averageVolume: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        totalCash: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        totalRevenue: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
         revenue: {
             better: {
                 type: mongoose.Schema.Types.ObjectId,
@@ -32,6 +158,20 @@ const ComparisonSchema = new mongoose.Schema({
             },
             differencePercent: Number
         },
+        grossProfit: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        grossMargins: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
         profitMargin: {
             better: {
                 type: mongoose.Schema.Types.ObjectId,
@@ -39,7 +179,56 @@ const ComparisonSchema = new mongoose.Schema({
             },
             differencePercent: Number
         },
+        earningsGrowth: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
         stockPerformance: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        grossMargin: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        operatingMargin: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        priceToBook: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        enterpriseValue: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        beta: {
+            better: {
+                type: mongoose.Schema.Types.ObjectId,
+                ref: 'Company'
+            },
+            differencePercent: Number
+        },
+        bookValue: {
             better: {
                 type: mongoose.Schema.Types.ObjectId,
                 ref: 'Company'

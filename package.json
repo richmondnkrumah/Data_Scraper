@@ -17,9 +17,10 @@
     "mongoose": "^7.5.0",
     "morgan": "^1.10.0",
     "node-cache": "^5.1.2",
-    "puppeteer": "^21.1.1",
+    "puppeteer": "^24.9.0",
     "winston": "^3.10.0",
-    "yahoo-finance2": "^2.4.4"
+    "yahoo-finance2": "^2.4.4",
+    "yahoo-stock-api": "^2.2.1"
   },
   "devDependencies": {
     "jest": "^29.6.4",

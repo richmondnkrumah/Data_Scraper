@@ -49,13 +49,76 @@ const CompanySchema = new mongoose.Schema({
         marketCap: {
             type: Number
         },
+        previousClose: {
+            type: Number
+        },
+        dayLow: {
+            type: Number
+        },
+        dayHigh: {
+            type: Number
+        },
+        peRatio: {
+            type: Number
+        },
+        debtToEquity: {
+            type: Number
+        },
+        quickRatio: {
+            type: Number
+        },
+        currentRatio: {
+            type: Number
+        },
+        shortRatio: {
+            type: Number
+        },
+        pegRatio: {
+            type: Number
+        },
+        returnOnAssets: {
+            type: Number
+        },
+        returnOnEquity: {
+            type: Number
+        },
+        trailingEps: {
+            type: Number
+        },
+        trailingPe: {
+            type: Number
+        },
+        forwardPe: {
+            type: Number
+        },
+        volume: {
+            type: Number
+        },
+        averageVolume: {
+            type: Number
+        },
+        totalCash: {
+            type: Number
+        },
+        totalRevenue: {
+            type: Number
+        },
         revenue: {
             type: Number
         },
         revenueGrowth: {
             type: Number
         },
+        grossProfit: {
+            type: Number
+        },
+        grossMargins: {
+            type: Number
+        },
         profitMargin: {
+            type: Number
+        },
+        earningsGrowth: {
             type: Number
         },
         stockPrice: {
@@ -64,7 +127,25 @@ const CompanySchema = new mongoose.Schema({
         priceHistory: [{
             date: Date,
             price: Number
-        }]
+        }],
+        grossMargin: {
+            type: Number
+        },
+        operatingMargin: {
+            type: Number
+        },
+        priceToBook: {
+            type: Number
+        },
+        enterpriseValue: {
+            type: Number
+        },
+        beta: {
+            type: Number
+        },
+        bookValue: {
+            type: Number
+        }
     },
     products: [{
         name: {

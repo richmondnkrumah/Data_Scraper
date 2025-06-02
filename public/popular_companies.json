@@ -1,0 +1,670 @@
+[
+  {
+    "name": "3M Company",
+    "symbol": "MMM"
+  },
+  {
+    "name": "A.O. Smith Corporation",
+    "symbol": "AOS"
+  },
+  {
+    "name": "AbbVie Inc.",
+    "symbol": "ABBV"
+  },
+  {
+    "name": "Abbott Laboratories",
+    "symbol": "ABT"
+  },
+  {
+    "name": "Accenture plc",
+    "symbol": "ACN"
+  },
+  {
+    "name": "Adobe Inc.",
+    "symbol": "ADBE"
+  },
+  {
+    "name": "Advanced Micro Devices, Inc.",
+    "symbol": "AMD"
+  },
+  {
+    "name": "Aflac Incorporated",
+    "symbol": "AFL"
+  },
+  {
+    "name": "Airbnb, Inc.",
+    "symbol": "ABNB"
+  },
+  {
+    "name": "Albemarle Corporation",
+    "symbol": "ALB"
+  },
+  {
+    "name": "Align Technology, Inc.",
+    "symbol": "ALGN"
+  },
+  {
+    "name": "Allstate Corporation",
+    "symbol": "ALL"
+  },
+  {
+    "name": "Alphabet Inc.",
+    "symbol": "GOOGL"
+  },
+  {
+    "name": "Amazon.com, Inc.",
+    "symbol": "AMZN"
+  },
+  {
+    "name": "American Airlines Group Inc.",
+    "symbol": "AAL"
+  },
+  {
+    "name": "American Electric Power Company, Inc.",
+    "symbol": "AEP"
+  },
+  {
+    "name": "American Express Company",
+    "symbol": "AXP"
+  },
+  {
+    "name": "American International Group, Inc.",
+    "symbol": "AIG"
+  },
+  {
+    "name": "American Tower Corporation",
+    "symbol": "AMT"
+  },
+  {
+    "name": "American Water Works Company, Inc.",
+    "symbol": "AWK"
+  },
+  {
+    "name": "Amgen Inc.",
+    "symbol": "AMGN"
+  },
+  {
+    "name": "Amphenol Corporation",
+    "symbol": "APH"
+  },
+  {
+    "name": "Analog Devices, Inc.",
+    "symbol": "ADI"
+  },
+  {
+    "name": "Anthem, Inc.",
+    "symbol": "ANTM"
+  },
+  {
+    "name": "Aon plc",
+    "symbol": "AON"
+  },
+  {
+    "name": "Apple Inc.",
+    "symbol": "AAPL"
+  },
+  {
+    "name": "Applied Materials, Inc.",
+    "symbol": "AMAT"
+  },
+  {
+    "name": "Aramark",
+    "symbol": "ARMK"
+  },
+  {
+    "name": "Archer-Daniels-Midland Company",
+    "symbol": "ADM"
+  },
+  {
+    "name": "AT&T Inc.",
+    "symbol": "T"
+  },
+  {
+    "name": "Autodesk, Inc.",
+    "symbol": "ADSK"
+  },
+  {
+    "name": "Automatic Data Processing, Inc.",
+    "symbol": "ADP"
+  },
+  {
+    "name": "AutoZone, Inc.",
+    "symbol": "AZO"
+  },
+  {
+    "name": "AvalonBay Communities, Inc.",
+    "symbol": "AVB"
+  },
+  {
+    "name": "Baker Hughes Company",
+    "symbol": "BKR"
+  },
+  {
+    "name": "Bank of America Corporation",
+    "symbol": "BAC"
+  },
+  {
+    "name": "Berkshire Hathaway Inc.",
+    "symbol": "BRK.B"
+  },
+  {
+    "name": "Best Buy Co., Inc.",
+    "symbol": "BBY"
+  },
+  {
+    "name": "Biogen Inc.",
+    "symbol": "BIIB"
+  },
+  {
+    "name": "BlackRock, Inc.",
+    "symbol": "BLK"
+  },
+  {
+    "name": "Boeing Company",
+    "symbol": "BA"
+  },
+  {
+    "name": "Booking Holdings Inc.",
+    "symbol": "BKNG"
+  },
+  {
+    "name": "Bristol Myers Squibb Company",
+    "symbol": "BMY"
+  },
+  {
+    "name": "Broadcom Inc.",
+    "symbol": "AVGO"
+  },
+  {
+    "name": "Caterpillar Inc.",
+    "symbol": "CAT"
+  },
+  {
+    "name": "Charter Communications, Inc.",
+    "symbol": "CHTR"
+  },
+  {
+    "name": "Chevron Corporation",
+    "symbol": "CVX"
+  },
+  {
+    "name": "Cigna Corporation",
+    "symbol": "CI"
+  },
+  {
+    "name": "Cisco Systems, Inc.",
+    "symbol": "CSCO"
+  },
+  {
+    "name": "Citigroup Inc.",
+    "symbol": "C"
+  },
+  {
+    "name": "Coca-Cola Company",
+    "symbol": "KO"
+  },
+  {
+    "name": "Colgate-Palmolive Company",
+    "symbol": "CL"
+  },
+  {
+    "name": "Comcast Corporation",
+    "symbol": "CMCSA"
+  },
+  {
+    "name": "Constellation Brands, Inc.",
+    "symbol": "STZ"
+  },
+  {
+    "name": "ConocoPhillips",
+    "symbol": "COP"
+  },
+  {
+    "name": "Costco Wholesale Corporation",
+    "symbol": "COST"
+  },
+  {
+    "name": "Crown Castle International Corp.",
+    "symbol": "CCI"
+  },
+  {
+    "name": "CSX Corporation",
+    "symbol": "CSX"
+  },
+  {
+    "name": "CVS Health Corporation",
+    "symbol": "CVS"
+  },
+  {
+    "name": "Danaher Corporation",
+    "symbol": "DHR"
+  },
+  {
+    "name": "Deere & Company",
+    "symbol": "DE"
+  },
+  {
+    "name": "Delta Air Lines, Inc.",
+    "symbol": "DAL"
+  },
+  {
+    "name": "Dominion Energy, Inc.",
+    "symbol": "D"
+  },
+  {
+    "name": "DowDuPont Inc.",
+    "symbol": "DD"
+  },
+  {
+    "name": "Duke Energy Corporation",
+    "symbol": "DUK"
+  },
+  {
+    "name": "eBay Inc.",
+    "symbol": "EBAY"
+  },
+  {
+    "name": "Ecolab Inc.",
+    "symbol": "ECL"
+  },
+  {
+    "name": "Edwards Lifesciences Corporation",
+    "symbol": "EW"
+  },
+  {
+    "name": "Eli Lilly and Company",
+    "symbol": "LLY"
+  },
+  {
+    "name": "Emerson Electric Co.",
+    "symbol": "EMR"
+  },
+  {
+    "name": "Enbridge Inc.",
+    "symbol": "ENB"
+  },
+  {
+    "name": "Exxon Mobil Corporation",
+    "symbol": "XOM"
+  },
+  {
+    "name": "Facebook, Inc.",
+    "symbol": "META"
+  },
+  {
+    "name": "FedEx Corporation",
+    "symbol": "FDX"
+  },
+  {
+    "name": "Fidelity National Information Services, Inc.",
+    "symbol": "FIS"
+  },
+  {
+    "name": "Ford Motor Company",
+    "symbol": "F"
+  },
+  {
+    "name": "General Dynamics Corporation",
+    "symbol": "GD"
+  },
+  {
+    "name": "General Electric Company",
+    "symbol": "GE"
+  },
+  {
+    "name": "General Mills, Inc.",
+    "symbol": "GIS"
+  },
+  {
+    "name": "General Motors Company",
+    "symbol": "GM"
+  },
+  {
+    "name": "Gilead Sciences, Inc.",
+    "symbol": "GILD"
+  },
+  {
+    "name": "Goldman Sachs Group, Inc.",
+    "symbol": "GS"
+  },
+  {
+    "name": "Halliburton Company",
+    "symbol": "HAL"
+  },
+  {
+    "name": "Home Depot, Inc.",
+    "symbol": "HD"
+  },
+  {
+    "name": "Honeywell International Inc.",
+    "symbol": "HON"
+  },
+  {
+    "name": "HP Inc.",
+    "symbol": "HPQ"
+  },
+  {
+    "name": "Humana Inc.",
+    "symbol": "HUM"
+  },
+  {
+    "name": "IBM Corporation",
+    "symbol": "IBM"
+  },
+  {
+    "name": "Illinois Tool Works Inc.",
+    "symbol": "ITW"
+  },
+  {
+    "name": "Intel Corporation",
+    "symbol": "INTC"
+  },
+  {
+    "name": "International Paper Company",
+    "symbol": "IP"
+  },
+  {
+    "name": "Intuit Inc.",
+    "symbol": "INTU"
+  },
+  {
+    "name": "Intuitive Surgical, Inc.",
+    "symbol": "ISRG"
+  },
+  {
+    "name": "Johnson & Johnson",
+    "symbol": "JNJ"
+  },
+  {
+    "name": "JPMorgan Chase & Co.",
+    "symbol": "JPM"
+  },
+  {
+    "name": "Kellogg Company",
+    "symbol": "K"
+  },
+  {
+    "name": "Kimberly-Clark Corporation",
+    "symbol": "KMB"
+  },
+  {
+    "name": "Kinder Morgan, Inc.",
+    "symbol": "KMI"
+  },
+  {
+    "name": "L3Harris Technologies, Inc.",
+    "symbol": "LHX"
+  },
+  {
+    "name": "Lam Research Corporation",
+    "symbol": "LRCX"
+  },
+  {
+    "name": "Las Vegas Sands Corp.",
+    "symbol": "LVS"
+  },
+  {
+    "name": "Lockheed Martin Corporation",
+    "symbol": "LMT"
+  },
+  {
+    "name": "Lowe's Companies, Inc.",
+    "symbol": "LOW"
+  },
+  {
+    "name": "Lululemon Athletica Inc.",
+    "symbol": "LULU"
+  },
+  {
+    "name": "Mastercard Incorporated",
+    "symbol": "MA"
+  },
+  {
+    "name": "McDonald's Corporation",
+    "symbol": "MCD"
+  },
+  {
+    "name": "Medtronic plc",
+    "symbol": "MDT"
+  },
+  {
+    "name": "Merck & Co., Inc.",
+    "symbol": "MRK"
+  },
+  {
+    "name": "Meta Platforms, Inc.",
+    "symbol": "META"
+  },
+  {
+    "name": "Micron Technology, Inc.",
+    "symbol": "MU"
+  },
+  {
+    "name": "Microsoft Corporation",
+    "symbol": "MSFT"
+  },
+  {
+    "name": "Moderna, Inc.",
+    "symbol": "MRNA"
+  },
+  {
+    "name": "Mondelez International, Inc.",
+    "symbol": "MDLZ"
+  },
+  {
+    "name": "Morgan Stanley",
+    "symbol": "MS"
+  },
+  {
+    "name": "Netflix, Inc.",
+    "symbol": "NFLX"
+  },
+  {
+    "name": "NextEra Energy, Inc.",
+    "symbol": "NEE"
+  },
+  {
+    "name": "Nike, Inc.",
+    "symbol": "NKE"
+  },
+  {
+    "name": "Norfolk Southern Corporation",
+    "symbol": "NSC"
+  },
+  {
+    "name": "Northrop Grumman Corporation",
+    "symbol": "NOC"
+  },
+  {
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDA"
+  },
+  {
+    "name": "Oracle Corporation",
+    "symbol": "ORCL"
+  },
+  {
+    "name": "PayPal Holdings, Inc.",
+    "symbol": "PYPL"
+  },
+  {
+    "name": "PepsiCo, Inc.",
+    "symbol": "PEP"
+  },
+  {
+    "name": "Pfizer Inc.",
+    "symbol": "PFE"
+  },
+  {
+    "name": "Philip Morris International Inc.",
+    "symbol": "PM"
+  },
+  {
+    "name": "Phillips 66",
+    "symbol": "PSX"
+  },
+  {
+    "name": "Pinterest, Inc.",
+    "symbol": "PINS"
+  },
+  {
+    "name": "Procter & Gamble Company",
+    "symbol": "PG"
+  },
+  {
+    "name": "QUALCOMM Incorporated",
+    "symbol": "QCOM"
+  },
+  {
+    "name": "Raytheon Technologies Corporation",
+    "symbol": "RTX"
+  },
+  {
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "symbol": "REGN"
+  },
+  {
+    "name": "Republic Services, Inc.",
+    "symbol": "RSG"
+  },
+  {
+    "name": "Salesforce, Inc.",
+    "symbol": "CRM"
+  },
+  {
+    "name": "Schlumberger Limited",
+    "symbol": "SLB"
+  },
+  {
+    "name": "Sempra Energy",
+    "symbol": "SRE"
+  },
+  {
+    "name": "ServiceNow, Inc.",
+    "symbol": "NOW"
+  },
+  {
+    "name": "Sherwin-Williams Company",
+    "symbol": "SHW"
+  },
+  {
+    "name": "Snap Inc.",
+    "symbol": "SNAP"
+  },
+  {
+    "name": "Southern Company",
+    "symbol": "SO"
+  },
+  {
+    "name": "Southwest Airlines Co.",
+    "symbol": "LUV"
+  },
+  {
+    "name": "Spotify Technology S.A.",
+    "symbol": "SPOT"
+  },
+  {
+    "name": "Square, Inc.",
+    "symbol": "SQ"
+  },
+  {
+    "name": "Starbucks Corporation",
+    "symbol": "SBUX"
+  },
+  {
+    "name": "T-Mobile US, Inc.",
+    "symbol": "TMUS"
+  },
+  {
+    "name": "Target Corporation",
+    "symbol": "TGT"
+  },
+  {
+    "name": "Tesla, Inc.",
+    "symbol": "TSLA"
+  },
+  {
+    "name": "Texas Instruments Incorporated",
+    "symbol": "TXN"
+  },
+  {
+    "name": "The Coca-Cola Company",
+    "symbol": "KO"
+  },
+  {
+    "name": "The Home Depot, Inc.",
+    "symbol": "HD"
+  },
+  {
+    "name": "The Procter & Gamble Company",
+    "symbol": "PG"
+  },
+  {
+    "name": "The Walt Disney Company",
+    "symbol": "DIS"
+  },
+  {
+    "name": "Thermo Fisher Scientific Inc.",
+    "symbol": "TMO"
+  },
+  {
+    "name": "TJX Companies, Inc.",
+    "symbol": "TJX"
+  },
+  {
+    "name": "Uber Technologies, Inc.",
+    "symbol": "UBER"
+  },
+  {
+    "name": "Union Pacific Corporation",
+    "symbol": "UNP"
+  },
+  {
+    "name": "UnitedHealth Group Incorporated",
+    "symbol": "UNH"
+  },
+  {
+    "name": "United Parcel Service, Inc.",
+    "symbol": "UPS"
+  },
+  {
+    "name": "United Technologies Corporation",
+    "symbol": "UTX"
+  },
+  {
+    "name": "Valero Energy Corporation",
+    "symbol": "VLO"
+  },
+  {
+    "name": "Verizon Communications Inc.",
+    "symbol": "VZ"
+  },
+  {
+    "name": "Vertex Pharmaceuticals Incorporated",
+    "symbol": "VRTX"
+  },
+  {
+    "name": "Visa Inc.",
+    "symbol": "V"
+  },
+  {
+    "name": "Walmart Inc.",
+    "symbol": "WMT"
+  },
+  {
+    "name": "Waste Management, Inc.",
+    "symbol": "WM"
+  },
+  {
+    "name": "Wells Fargo & Company",
+    "symbol": "WFC"
+  },
+  {
+    "name": "Workday, Inc.",
+    "symbol": "WDAY"
+  },
+  {
+    "name": "Zoom Video Communications, Inc.",
+    "symbol": "ZM"
+  }
+]
